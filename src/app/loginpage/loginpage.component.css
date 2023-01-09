@@ -1,0 +1,21 @@
+/* Bootstrap Cards */
+.cutter{
+    clip-path: polygon(0 0,100% 0,100% 85%,0 100%);
+    }
+    .card{
+    min-height: 100%;    
+    }
+    i{
+    right:16px;   
+    top:15px;
+    }
+
+    .btn{
+        background-color: #7386D5;
+        color: #fff;
+    }
+
+    .btn:hover{
+        color: #7386D5;
+        background-color: #fff;
+    }
